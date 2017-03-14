@@ -1,2 +1,7 @@
 
 Hello World
+
+
+https://gng2101project-platytude.c9users.io/
+
+rails server -b $IP -p $PORT
