@@ -1,4 +1,7 @@
 Rails.application.configure do
+  group :pro do
+    gem 'pg', '0.18.4'
+  end
   # Settings specified here will take precedence over those in config/application.rb.
 
   # Code is not reloaded between requests.
