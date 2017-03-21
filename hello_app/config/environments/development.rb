@@ -1,8 +1,4 @@
 Rails.application.configure do
-  group :development, :test do
-    gem 'sqlite3', '1.3.12'
-    gem 'byebug', '9.0.0', platform: :mri
-  end
   # Settings specified here will take precedence over those in config/application.rb.
 
   # In the development environment your application's code is reloaded on
